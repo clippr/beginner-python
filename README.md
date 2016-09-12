@@ -1,6 +1,6 @@
 # beginner-python
 
-!>mfw I have to explain python[](http://i0.kym-cdn.com/entries/icons/original/000/018/433/eaZrosc.png)
+mfw I have to explain python ![](http://i0.kym-cdn.com/entries/icons/original/000/018/433/eaZrosc.png)
 
 ####_Many researchers believe that "dank memes" may be the driving factor in the decline of society_
 
