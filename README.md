@@ -5,3 +5,8 @@
 
 * **Pepe Memes** may be having the most profound impact
 * Society sees memes as a way to escape from the cold pain of reality
+
+```
+while 1 == 1:
+  print "dank memes"
+```
