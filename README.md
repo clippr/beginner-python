@@ -30,9 +30,12 @@ if x > 1:
     Print "hello"
 ```
 This block of code would only print "hello" if x is greater than 1.
-
-
+* The block of code above would also be an example of an _expression_, which is any statement that combines values (numbers) and operators (+, -, >, =, ect.)
+* Branching offers the ability to incorporate multiple outcomes from a single function, with the use of if/else statements such as the one used above.  For example, the block below will have two different outcomes depending on the value of x.
 
 ```
-
+if x >=5:
+    Return True
+else:
+    Return False
 ```
