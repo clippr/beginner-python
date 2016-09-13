@@ -20,8 +20,9 @@ _a = (1.0 + 4.0)_
  to assign a as a floating point number (do this.)
 * You can use these for just about damn near anything.
 * If you f*ck it up and use a intiger when you should have used a floating point you will git some error message probably. (pun intended)
->
-![](http://img0.reactor.cc/pics/comment/%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB-%D1%81%D0%B0%D0%BC-%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D0%BB-%D1%81%D0%B0%D0%BC-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-Dark-Souls-1447716.jpeg)
+* Variables are used for damn near everything, especially things that change frequently and need to be called to.
+
+#Conditionals
 
 
 
