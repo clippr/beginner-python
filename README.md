@@ -14,6 +14,7 @@
 _a = (1+4)_
 ```
 or whatever to assign a as an integer variable.
+Use:
 ```
 _a = (1.0 + 4.0)_
 ```
@@ -23,16 +24,15 @@ _a = (1.0 + 4.0)_
 * Variables are used for damn near everything, especially things that change frequently and need to be called to.
 
 #Conditionals
-
+* Conditionals are phrases that rely on the status of something else to function, for example:
+```
+if x > 1:
+    Print "hello"
+```
+This block of code would only print "hello" if x is greater than 1.
 
 
 
 ```
 
-```
-
-
-
-```while 1 == 1:
-  print "dank memes"
 ```
