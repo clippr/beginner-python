@@ -39,3 +39,13 @@ if x >=5:
 else:
     Return False
 ```
+#Methods
+* Methods offer a convenient way to use a function multiple times.  For example, if I create a method that determines the weight of person on the mood, using a variable and an equation, I can use the method multiple times in my code.
+```
+def weight_on_moon(w):
+    w = 1/3(w)
+    Return w    
+
+Print weight_on_moon(90)
+```
+This block of code shows how my method can be called on to solve for the weight of a person on the moon, in the place of "w."
