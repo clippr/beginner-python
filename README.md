@@ -19,7 +19,7 @@ _a = (1.0 + 4.0)_
 ```
  to assign a as a floating point number (do this.)
 * You can use these for just about damn near anything.
-* If you f*ck it up and use a intiger when you should have used a floating point you will git some error message probably. (pun intended)
+* If you use an integer when you should have used a floating point you will git some error message probably. (pun intended)
 * Variables are used for damn near everything, especially things that change frequently and need to be called to.
 
 #Conditionals
