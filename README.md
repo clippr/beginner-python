@@ -4,8 +4,8 @@
 
 ####_In unrelated news, many researchers believe that "dank memes" may be the driving factor in the decline of society_
 
-* ## **Python** is ok I guess
-* ## There's really only 3 things to know:
+* **Python** is ok I guess
+* There's really only 3 things to know:
 
 #Variables
 * Variables are generally pretty cool
