@@ -10,8 +10,14 @@
 #Variables
 * Variables are generally pretty cool
 * Assigning variables is super ez. Just do:
-_"a = (1+4)"_ or whatever to assign a as an integer variable.
-_"a = (1.0 + 4.0)"_ to assign a as a floating point number (do this.)
+```
+_"a = (1+4)"_
+```
+or whatever to assign a as an integer variable.
+```
+_"a = (1.0 + 4.0)"_
+```
+ to assign a as a floating point number (do this.)
 * You can use these for just about damn near anything.
 * If you f*ck it up, you will git some error message probably.
 >
@@ -20,7 +26,9 @@ _"a = (1.0 + 4.0)"_ to assign a as a floating point number (do this.)
 
 
 
+```
 
+```
 
 
 
